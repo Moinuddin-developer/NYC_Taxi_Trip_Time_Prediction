@@ -22,7 +22,7 @@
 </ul>
 <h4>Input Files:</h4>
 <ul>
-  <li><b>NYC Taxi.csv</b> - Input dataset having information about different shows/movies available on Netflix.</li>
+  <li><b>NYC Taxi.csv</b> - Input dataset having information about different types of taxi services in New york city .</li>
 </ul>
 <h4>Data Source:</h4>
 <li><b>https://learn.almabetter.com/courses/take/team-capstone-projects/texts/19499882-nyc-taxi-trip-time-prediction.</li>
