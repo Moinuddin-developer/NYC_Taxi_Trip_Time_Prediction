@@ -3,7 +3,7 @@
 
 
 <p align="center"> 
-<img src="https://github.com/AnshRockstar/NYC-Taxi-Trip-Duration-Prediction/blob/main/Images/NYC%20Taxi.jpg" alt="NYC Taxi.jpg"  height="320px">
+<img src="https://github.com/Moinuddin-developer/NYC_Taxi_Trip_Time_Prediction/blob/main/NYC%20Taxi.jpg" alt="NYC Taxi.jpg"  height="320px">
 </p>
 
 <p>I have clustered similar movies and TV Shows available on Netflix taking into account of attributes like Description, Cast, Director, Genre etc of a particular movie/show.</p>
