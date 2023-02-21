@@ -6,8 +6,6 @@
 <img src="https://github.com/Moinuddin-developer/NYC_Taxi_Trip_Time_Prediction/blob/main/NYC%20Taxi.jpg" alt="NYC Taxi.jpg"  height="320px">
 </p>
 
-<p>I have clustered similar movies and TV Shows available on Netflix taking into account of attributes like Description, Cast, Director, Genre etc of a particular movie/show.</p>
-
 <h2> :floppy_disk: Project Files Description</h2>
 
 <p>This Project includes 1 colab notebook,1 Project PPT, 1 technical documentation , 1 summary documentationas well as 1 presentation:</p>
