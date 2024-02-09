@@ -22,8 +22,6 @@
 <ul>
   <li><b>NYC Taxi.csv</b> - Input dataset having information about different types of taxi services in New york city .</li>
 </ul>
-<h4>Data Source:</h4>
-<li><b>https://learn.almabetter.com/courses/take/team-capstone-projects/texts/19499882-nyc-taxi-trip-time-prediction.</li>
 <ul>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
